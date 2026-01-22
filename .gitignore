@@ -32,3 +32,5 @@ outputs/
 # --- 临时文件 ---
 *.log
 .DS_Store
+/logs/
+/data/
