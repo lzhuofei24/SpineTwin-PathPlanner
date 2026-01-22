@@ -1,0 +1,34 @@
+# --- 医疗影像数据 (绝对不要上传) ---
+*.dcm
+*.nii
+*.nii.gz
+*.mhd
+*.raw
+
+# --- 文件夹忽略 ---
+data/raw/
+data/processed/
+data/synthetic/
+
+# --- Python 编译缓存 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 虚拟环境 ---
+.venv/
+venv/
+env/
+
+# --- IDE 配置 ---
+.idea/
+.vscode/
+
+# --- 训练日志和模型权重 ---
+logs/
+checkpoints/
+outputs/
+
+# --- 临时文件 ---
+*.log
+.DS_Store
