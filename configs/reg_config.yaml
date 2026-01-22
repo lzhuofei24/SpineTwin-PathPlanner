@@ -1,0 +1,5 @@
+# 3.4 跨模态配准参数配置
+model:
+  name: 'TwoStreamNet'
+train:
+  image_size: [256, 256]
