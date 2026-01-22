@@ -1,6 +1,0 @@
-# 3.3 骨密度建模参数配置
-model:
-  name: 'CycleGAN'
-train:
-  lambda_cycle: 10.0
-  lambda_identity: 5.0

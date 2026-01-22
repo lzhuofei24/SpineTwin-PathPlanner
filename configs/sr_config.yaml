@@ -1,8 +1,0 @@
-# 3.2 CT超分辨率参数配置
-model:
-  name: 'SRGAN'
-  scale_factor: 4
-train:
-  batch_size: 16
-  lr: 0.0001
-  epochs: 100

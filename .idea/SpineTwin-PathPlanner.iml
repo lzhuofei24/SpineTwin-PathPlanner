@@ -3,6 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data/processed" />
+      <excludeFolder url="file://$MODULE_DIR$/data/synthetic" />
+      <excludeFolder url="file://$MODULE_DIR$/logs/sr_experiment/version_3" />
+      <excludeFolder url="file://$MODULE_DIR$/logs/sr_experiment/version_4" />
+      <excludeFolder url="file://$MODULE_DIR$/logs/sr_experiment/version_5" />
+      <excludeFolder url="file://$MODULE_DIR$/logs/sr_experiment/version_6" />
+      <excludeFolder url="file://$MODULE_DIR$/logs/sr_experiment_fast" />
     </content>
     <orderEntry type="jdk" jdkName="SpineTwin-PathPlanner" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

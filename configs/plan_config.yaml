@@ -1,4 +1,0 @@
-# 3.5 路径规划参数配置
-model:
-  input_channels: 2
-  hidden_dim: 256
