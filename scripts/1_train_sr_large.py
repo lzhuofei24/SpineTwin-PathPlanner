@@ -138,7 +138,7 @@ def main():
 
     BATCH_SIZE = 128
     NUM_WORKERS = 6
-    MAX_EPOCHS = 50
+    MAX_EPOCHS = 20
     LR = 1e-4
     CROP_SIZE = 128
     SCALE_FACTOR = 4
